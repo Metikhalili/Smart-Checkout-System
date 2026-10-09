@@ -29,8 +29,8 @@ I built this project to explore computer vision and how it can be used in a simp
 Clone the repository:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
-cd YOUR_REPOSITORY_NAME
+git clone https://github.com/Metikhalili/Smart-Checkout-System.git
+cd Smart-Checkout-System
 ```
 
 Create and activate a virtual environment:
